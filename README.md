@@ -287,9 +287,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Fiby Ehab** - AI Engineer
 
-Email: febeehab3@gmail.com 
-LinkedIn: [Fiby Ehab](https://www.linkedin.com/feed/)  
-GitHub: [@FibyEhab](https://github.com/FibyEhab)  
+**Email:** febeehab3@gmail.com
+
+**LinkedIn:** [Fiby Ehab](https://www.linkedin.com/in/fiby-ehab-270b55286/)
+
+**GitHub:** [@FibyEhab](https://github.com/FibyEhab)  
 
 ---
 
